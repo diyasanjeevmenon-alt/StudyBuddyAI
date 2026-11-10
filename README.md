@@ -8,9 +8,8 @@ Upload a PDF, paste your notes, or add a YouTube lecture link, and Study Buddy A
 
 | | |
 | --- | --- |
-| **Live app** | _add your deployed link here_ |
-| **GitHub repository** | _add your repository link here_ |
-| **Demo video (optional)** | _add a link here_ |
+| **Live app** | _https://study-buddy-ai-mjwz.onrender.com/_ |
+| **GitHub repository** | _https://github.com/diyasanjeevmenon-alt/StudyBuddyAI_ |
 
 > The app is hosted on a free tier, so the first request after a period of inactivity can take up to a minute while the server wakes up.
 
