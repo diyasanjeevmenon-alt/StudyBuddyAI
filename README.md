@@ -20,7 +20,6 @@ _Add screenshots to a `docs/screenshots/` folder and reference them here, for ex
 
 ![Home](docs/screenshots/home.png)
 ![Create form](docs/screenshots/create.png)
-![Study pack](docs/screenshots/study-pack.png)
 ![Quiz](docs/screenshots/quiz.png)
 ![Chat](docs/screenshots/chat.png)
 
