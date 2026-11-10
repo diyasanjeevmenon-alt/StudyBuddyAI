@@ -15,8 +15,6 @@ Upload a PDF, paste your notes, or add a YouTube lecture link, and Study Buddy A
 
 ## Screenshots
 
-_Add screenshots to a `docs/screenshots/` folder and reference them here, for example:_
-
 
 ![Home](docs/screenshots/home.png)
 ![Create form](docs/screenshots/create.png)
