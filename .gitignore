@@ -1,0 +1,26 @@
+# dependencies & build output
+node_modules/
+dist/
+build/
+coverage/
+
+# secrets (never commit these)
+.env
+.env.*
+!.env.example
+
+# local data created at runtime
+studybuddy-data.json
+studybuddy-data.json.tmp
+data/
+
+# logs & OS files
+*.log
+.DS_Store
+
+# editor / tool folders
+.vscode/
+.idea/
+.cursor/
+.claude/
+.aistudio/
