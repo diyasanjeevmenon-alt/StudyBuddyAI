@@ -17,13 +17,13 @@ Upload a PDF, paste your notes, or add a YouTube lecture link, and Study Buddy A
 
 _Add screenshots to a `docs/screenshots/` folder and reference them here, for example:_
 
-```md
+
 ![Home](docs/screenshots/home.png)
 ![Create form](docs/screenshots/create.png)
 ![Study pack](docs/screenshots/study-pack.png)
 ![Quiz](docs/screenshots/quiz.png)
 ![Chat](docs/screenshots/chat.png)
-```
+
 
 ## Features
 
