@@ -145,7 +145,3 @@ src/
 render.yaml          Render blueprint
 .env.example         Template for environment variables
 ```
-
-## License
-
-MIT
